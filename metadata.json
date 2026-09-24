@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Información y Seguimiento Municipal - Itá Ibaté",
+  "description": "Sistema integral de recolección de datos por área, tablero de control municipal, detección de problemas transversales y generación de resúmenes ejecutivos con IA para la Secretaría General de la Municipalidad de Itá Ibaté.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
